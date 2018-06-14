@@ -1,0 +1,15 @@
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\bin\Debug\CodeChallengeApp.exe.config
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\bin\Debug\CodeChallengeApp.exe
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\bin\Debug\CodeChallengeApp.pdb
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Debug\CodeChallengeApp.csprojResolveAssemblyReference.cache
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Debug\MainWindow.g.cs
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Debug\App.g.cs
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Debug\CodeChallengeApp_MarkupCompile.cache
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Debug\CodeChallengeApp_MarkupCompile.lref
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Debug\MainWindow.baml
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Debug\CodeChallengeApp.g.resources
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Debug\CodeChallengeApp.Properties.Resources.resources
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Debug\CodeChallengeApp.csproj.GenerateResource.Cache
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Debug\CodeChallengeApp.csproj.CoreCompileInputs.cache
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Debug\CodeChallengeApp.exe
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Debug\CodeChallengeApp.pdb

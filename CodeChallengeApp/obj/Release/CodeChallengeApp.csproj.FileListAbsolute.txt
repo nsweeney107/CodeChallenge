@@ -1,0 +1,14 @@
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\bin\Release\CodeChallengeApp.exe.config
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\bin\Release\CodeChallengeApp.exe
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\bin\Release\CodeChallengeApp.pdb
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Release\MainWindow.g.cs
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Release\App.g.cs
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Release\CodeChallengeApp_MarkupCompile.cache
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Release\CodeChallengeApp_MarkupCompile.lref
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Release\MainWindow.baml
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Release\CodeChallengeApp.g.resources
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Release\CodeChallengeApp.Properties.Resources.resources
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Release\CodeChallengeApp.csproj.GenerateResource.Cache
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Release\CodeChallengeApp.csproj.CoreCompileInputs.cache
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Release\CodeChallengeApp.exe
+C:\Users\NateDev\Source\Repos\CodeChallengeApp\CodeChallengeApp\obj\Release\CodeChallengeApp.pdb
